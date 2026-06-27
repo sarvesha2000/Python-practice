@@ -1,5 +1,6 @@
 #print(__name__) #question ahe 
 #apan vichrtoy tuz naav kay file la
+
 def main():
     print("Inside main")
 
